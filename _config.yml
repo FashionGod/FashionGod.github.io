@@ -104,5 +104,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/FashionGod/FashionGod.github.io
+  repo: git@39.101.149.152:/home/git/blog.git
   branch: master
